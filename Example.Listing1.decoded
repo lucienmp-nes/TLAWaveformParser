@@ -1,0 +1,68 @@
+TOTAL:00000110 - 0x6
+TOTAL:11111111 - 0xff
+TOTAL:00000101 - 0x5
+TOTAL:00000100 - 0x4
+TOTAL:00110101 - 0x35
+TOTAL:00000100 - 0x4
+TOTAL:00000110 - 0x6
+TOTAL:00000001 - 0x1
+TOTAL:00000000 - 0x0
+TOTAL:00000010 - 0x2
+TOTAL:00000101 - 0x5
+TOTAL:00000000 - 0x0
+TOTAL:00110101 - 0x35
+TOTAL:00000100 - 0x4
+TOTAL:11100111 - 0xe7
+ Nibble: 0000 hex:0x0
+ Nibble: 0000 hex:0x0
+ Nibble: 0000 hex:0x0
+ Nibble: 0000 hex:0x0
+ Nibble: 0000 hex:0x0
+ Nibble: 0000 hex:0x0
+ Nibble: 1010 hex:0xa
+ Nibble: 0101 hex:0x5
+ Nibble: 0101 hex:0x5
+ Nibble: 0101 hex:0x5
+ Nibble: 0011 hex:0x3
+ Nibble: 1011 hex:0xb
+ Nibble: 0011 hex:0x3
+ Nibble: 0011 hex:0x3
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+ DATA:  0x1a12(mode=0xa5): 0xffff
+ DATA:  0x1a12(mode=0xa5): 0xffff
+ DATA:  0x1a14(mode=0xa5): 0xffff
+ DATA:  0x1a2e(mode=0xa5): 0xffff
+ DATA:  0x1a30(mode=0xa5): 0xffff
+ DATA:  0x1a30(mode=0xa5): 0xffff
+ DATA:  0x15a(mode=0xa5): 0x4444
+ DATA:  0x1a32(mode=0xa5): 0xffff
+ DATA:  0x1a32(mode=0xa5): 0xffff
+ DATA:  0x1a34(mode=0xa5): 0xffff
+ DATA:  0x1a34(mode=0xa5): 0xffff
+ DATA:  0x1a36(mode=0xa5): 0xffff
+ DATA:  0x15a(mode=0xa5): 0x4444
+ DATA:  0x1a36(mode=0xa5): 0xffff
+ DATA:  0x1a38(mode=0xa5): 0xffff
+ DATA:  0x1a38(mode=0xa5): 0xffff
+ DATA:  0x15e(mode=0xa5): 0x3333
